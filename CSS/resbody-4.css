@@ -1,0 +1,78 @@
+.restbody-4-div{ 
+    padding: 0 0.8rem;
+    height: ;
+}
+.restbody-4-div11{
+    border-radius: 1rem;
+    padding: 3.7rem;
+    background-color: #f4f4f9;
+}
+.restbody-4-div-h5{
+    font-size: 1.7rem;
+    font-weight:700;
+    text-align: center;
+}
+.restbody-4-img{
+    margin: 3.5rem 1rem 0 1rem;
+}
+.restbody-4-img2{
+    margin: 0 1rem 2.5rem 1rem;
+}
+.third-4-hh{
+    font-weight: 700;
+    font-size: 2.85rem;
+}
+.third-4-p{
+    text-align: start ;
+    display: inline-block;
+    padding-left: 1.3rem;
+}
+.rest-5-btn{
+    padding: 0.7rem 1.5rem;
+    background-color: transparent!important;
+    border:2.5px solid #353f4f!important;
+    margin-top: 25px;
+    font-weight: 700;
+}
+.chekar{
+    color: #f74780;
+}
+
+.restbody-6{
+    position: relative;
+
+}
+.restbody-6-inner{
+    position: relative;
+    z-index: 2;
+}
+.rest-6bg{
+    position: absolute;
+    height: 72%;
+    left: 56%;
+    top: 14%;
+    width: 50%;
+    content: "";
+    border-radius: 1rem;
+    z-index: 0;
+    background-color: #f2f4f8;
+}
+.rest-6-padl{
+    padding-left: 2.8rem;
+}
+.rest-6-box{
+    padding: 2rem 2.2rem;
+    background-color: #fff;
+    margin-bottom: 1.98rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,.08);
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+.restbody-6:after {
+    height: 75%;
+    left: 48%;
+    top: 19%;
+    width: 52%;
+}} 

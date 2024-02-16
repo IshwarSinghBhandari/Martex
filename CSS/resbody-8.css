@@ -1,0 +1,52 @@
+.rest-8-bg{
+    background-size: cover;
+    height: auto;
+    background-repeat: no-repeat;
+}
+.res-8-vit{
+    margin-top: 4rem;
+}
+.res-8-vid{
+    position: relative;
+    height:35rem;
+}
+.res-8-abs{
+    position: absolute;
+
+}
+
+.restbody-9{
+    margin-top: 11rem;
+    margin-bottom: 5rem;
+}
+
+  .scroll {
+    display: flex;
+    overflow-x: scroll  ;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch; 
+  }
+  
+  .scroll::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .carou-img {
+    height: 5rem !important;
+    /* width: 4rem; */
+    margin: 0 1.8rem;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .carou-img>img {
+    margin: auto;
+    height: 100%;
+    border-radius: 0.7rem; 
+    transition: transform 0.3s ease; 
+  }
+  
+  /* .carou-img img:hover {
+    transform: scale(1.05); 
+  } */
+  
