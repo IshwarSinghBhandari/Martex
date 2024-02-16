@@ -1,0 +1,41 @@
+
+
+/* .img-resbody-2{
+
+} */
+.img-10{
+    vertical-align: middle;
+    padding:0 1.5rem;
+}
+.resb-2-p1{
+    margin-bottom: 1.56rem;
+    /* font-size: 0.85rem; */
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    
+}
+.resb-2-h2{
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.3;
+}
+.resb-2-p2{
+    font-size: 1.1rem;
+    text-align: justify;
+    line-height: 1.8;
+    font-weight: 500;
+}
+.resb-2-h5{
+    margin-bottom: 1.15rem;
+    font-weight: 700;
+    font-size: 1.8rem;   
+    line-height: 1.3;
+}
+.simple-list{
+    font-size: 1.1rem;
+    padding-left: 1rem;
+    text-align: justify;
+    font-weight: 500;
+}
